@@ -41,5 +41,4 @@ npx serve .
 or open `index.html` directly in a browser.
 
 ## Notes
-- LinkedIn link points to `https://www.linkedin.com/in/gaganiiii` — double-check this is your exact profile URL before publishing.
 - The contact form opens the visitor's email app pre-filled (works with zero backend). Swap in a service like Formspree if you'd rather receive submissions directly.
